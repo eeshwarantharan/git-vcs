@@ -1,1 +1,1 @@
-Sample git file.
+Sample git file. New contents .
